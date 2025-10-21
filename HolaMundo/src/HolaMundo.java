@@ -18,5 +18,18 @@ public class HolaMundo {
         System.out.println("numero2 = " + numero2);
 
         var numero3 = "15";
+
+        String nombre;
+
+        nombre = "Mau";
+
+        if(numero>10) {
+            nombre = "Juan";
+        }
+
+        System.out.println("nombre = " + nombre);
+
+        //CamelCase
+        int edadPersona = 5;
     }
 }
