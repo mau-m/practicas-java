@@ -18,5 +18,6 @@ public class EjemploStringConcatenacion {
         System.out.println("resultado = " + resultado);
         System.out.println("resultado3 = " + resultado3);
         
+        
     }
 }
